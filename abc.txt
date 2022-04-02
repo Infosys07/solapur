@@ -1,3 +1,1 @@
-C
-C
-Hi
+echo  "hello world"
